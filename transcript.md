@@ -55,7 +55,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h04m59s" href="#t00h04m59s">[00:04:59]</a></div>
 
-**Dirk Sutro:** We're talking about blogging in the lounge tonight. We have three bloggers here it sounds like some kind of hybrid of of logging and ice blocking but it's not. It's web logging and it refers to some of these personal Web sites that that our bloggers have that that do everything from talk about their own individual trials and tribulations; to show photos of their families too to exhibit links to tens or sometimes hundreds of other Web sites that they personally have found and find interesting. Give us a call888-895-5727. Email us lounge at kpbs.org and through the course of the hour tonight one of our bloggers here is going to be updating his own blog. And if you visit "ARTLUNG.COM slash blog" during this hour you should be able to see some new material appearing on there and our other blogger Joe here may give you the real skinny on what's happening here. You might get a completely different version of our show on Joe's blog than what you're hearing on 89.5 KPBS.
+**Dirk Sutro:** We're talking about blogging in the lounge tonight. We have three bloggers here it sounds like some kind of hybrid of of logging and ice blocking but it's not. It's web logging and it refers to some of these personal Web sites that that our bloggers have that that do everything from talk about their own individual trials and tribulations; to show photos of their families too to exhibit links to tens or sometimes hundreds of other Web sites that they personally have found and find interesting. Give us a call888-895-5727. Email us LOUNGE @ KPBS.ORG and through the course of the hour tonight one of our bloggers here is going to be updating his own blog. And if you visit "ARTLUNG.COM slash blog" during this hour you should be able to see some new material appearing on there and our other blogger Joe here may give you the real skinny on what's happening here. You might get a completely different version of our show on Joe's blog than what you're hearing on 89.5 KPBS.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h06m06s" href="#t00h06m06s">[00:06:06]</a></div>
 
@@ -213,7 +213,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h17m14s" href="#t00h17m14s">[00:17:14]</a></div>
 
-**Dirk Sutro:** Well we're checking out blogging in The Lounge tonight that's the phenomenon of "web logging" we have three bonafide bloggers here and we're talking about all three of their blogs and what goes on there what you can find there why they do it and what it's like to live in a cyber realm. A large part of your day. Mitch is here; Lester is here; Joe is here. You can join us at 888-895-5727 or email us lounge at kpbs.org we'll pick up your e-mails during the show and if you want to check out Joe's blog it's changing as we speak as he types while I'm talking. Who knows what he's really saying about me on there but you can check it out at ARTLUNG.COM slash blog. And Joe I was looking over your shoulder during the break there. And one of the things that you put on your on your blog was that you were you were somewhat blown away at how frank Lester is on his Web site.
+**Dirk Sutro:** Well we're checking out blogging in The Lounge tonight that's the phenomenon of "web logging" we have three bonafide bloggers here and we're talking about all three of their blogs and what goes on there what you can find there why they do it and what it's like to live in a cyber realm. A large part of your day. Mitch is here; Lester is here; Joe is here. You can join us at 888-895-5727 or email us LOUNGE @ KPBS.ORG we'll pick up your e-mails during the show and if you want to check out Joe's blog it's changing as we speak as he types while I'm talking. Who knows what he's really saying about me on there but you can check it out at ARTLUNG.COM slash blog. And Joe I was looking over your shoulder during the break there. And one of the things that you put on your on your blog was that you were you were somewhat blown away at how frank Lester is on his Web site.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h18m09s" href="#t00h18m09s">[00:18:09]</a></div>
 
@@ -429,7 +429,7 @@
 
 **Lester:** There are covert ways to blog at work). Not that I do that anymore by the way.
 
-**Dirk Sutro:** Go to the Web site if you want the real story read "Yeah totally.net"
+**Dirk Sutro:** Go to the Web site if you want the real story read YEAHTOTALLY.NET
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m56s" href="#t00h31m56s">[00:31:56]</a></div>
 
@@ -507,7 +507,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h35m43s" href="#t00h35m43s">[00:35:43]</a></div>
 
-**Dirk Sutro:** Well we're blogging in The Lounge tonight with three bonafide bloggers if you want to see some blogging going on as we speak. Don't don't worry it's OK your kids can look at this blogging too it's it ARTLUNG.COM and we want to know if you blog or you'd like to blog or you haven't the foggiest notion what blogging is. Give us a call. 888-895-5727. Send us an email lounge at KPBS.org. I'm Dirk Sutro, we'll be back. More blogging after this short break.
+**Dirk Sutro:** Well we're blogging in The Lounge tonight with three bonafide bloggers if you want to see some blogging going on as we speak. Don't don't worry it's OK your kids can look at this blogging too it's it ARTLUNG.COM and we want to know if you blog or you'd like to blog or you haven't the foggiest notion what blogging is. Give us a call. 888-895-5727. Send us an email LOUNGE @ KPBS.ORG. I'm Dirk Sutro, we'll be back. More blogging after this short break.
 
 [Musical break]
 
@@ -789,8 +789,8 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h51m58s" href="#t00h51m58s">[00:51:58]</a></div>
 
-**Dirk Sutro:** Mitch Lester Joe are three bloggers you can visit their blogs at drive thru dot org. That's DRIVE-THRU.ORG. Art Lung dot com and YEAHTOTALLY.NET and send us some email it at lounge at KPBS.org.
+**Dirk Sutro:** Mitch Lester Joe are three bloggers you can visit their blogs at drive thru dot org. That's DRIVE-THRU.ORG. Art Lung dot com and YEAHTOTALLY.NET and send us some email it at LOUNGE @ KPBS.ORG.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h52m19s" href="#t00h52m19s">[00:52:19]</a></div>
 
-**Dirk Sutro:** Tomorrow night in the lounge David Patrone channels Frank Sinatra. The Lounge is produced by Eric Haberstra directed by Marko Manriquez with additional help from Kelly McSweeny, Alex Dougherty, and Helen Jordan. I'm Dirk Sutro happy blogging. 
+**Dirk Sutro:** Tomorrow night in the lounge David Patrone channels Frank Sinatra. The Lounge is produced by Erik Haberstroh directed by Marko Manriquez with additional help from Kelly McSweeny, Alex Dougherty, and Helen Jordan. I'm Dirk Sutro. Happy blogging.
