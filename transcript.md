@@ -405,7 +405,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h30m45s" href="#t00h30m45s">[00:30:45]</a></div>
 
-**Dirk Sutro:** We're talking about blogging or web logging it's a new term for a somewhat familiar use of the Internet. We have three bloggers here. They each have Web sites or blogs. Mitch's is drive thru.org It's DRIVE-THRU.ORG. Lester's is YEAHTOTALLY.NET and Joe over here is artlung.com and [Joe is updating his site as we speak](http://artlung.com/blog/2002/07/16/79043592/).
+**Dirk Sutro:** We're talking about blogging or web logging it's a new term for a somewhat familiar use of the Internet. We have three bloggers here. They each have Web sites or blogs. Mitch's is drive thru.org It's DRIVE-THRU.ORG. Lester's is YEAHTOTALLY.NET and Joe over here is ARTLUNG.COM and [Joe is updating his site as we speak](http://artlung.com/blog/2002/07/16/79043592/).
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m11s" href="#t00h31m11s">[00:31:11]</a></div>
 
@@ -557,7 +557,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h43m07s" href="#t00h43m07s">[00:43:07]</a></div>
 
-**Joe Crawford:** Sure. I think that there are actually a lot of blogs that are that are not so personal we've talked a lot here about personal blogs. But I can think of at least one that's linked from the San Diego Bloggers page that's on archaeology and there, it's all about a specific topic. The most topical blogs I can think of are on web design or those sorts of things because it's a very natural vehicle for people who work on the Web to talk about the Web in this format.
+**Joe Crawford:** Sure. I think that there are actually a lot of blogs that are that are not so personal we've talked a lot here about personal blogs. But I can think of at least one that's linked from the [San Diego Bloggers](http://artlung.com/archive/sandiegobloggers.com/) page that's on archaeology and there, it's all about a specific topic. The most topical blogs I can think of are on web design or those sorts of things because it's a very natural vehicle for people who work on the Web to talk about the Web in this format.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h43m36s" href="#t00h43m36s">[00:43:36]</a></div>
 
@@ -581,7 +581,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h44m55s" href="#t00h44m55s">[00:44:55]</a></div>
 
-**Nichole:** Yeah I have a live journal Live Journal dot com.
+**Nichole:** Yeah I have a live journal [LIVEJOURNAL.COM](https://www.livejournal.com/).
 
 <div class="timestamp" style="text-align: right;"><a id="t00h44m58s" href="#t00h44m58s">[00:44:58]</a></div>
 
@@ -673,7 +673,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m23s" href="#t00h47m23s">[00:47:23]</a></div>
 
-**Tara:** And then I drop it and then I start it and then I drop it and right now it's in the drop phase. But I've been doing it since Pyra Labs started blogger.
+**Tara:** And then I drop it and then I start it and then I drop it and right now it's in the drop phase. But I've been doing it since [Pyra Labs](https://en.wikipedia.org/wiki/Pyra_Labs) started blogger.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m30s" href="#t00h47m30s">[00:47:30]</a></div>
 
@@ -693,7 +693,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m55s" href="#t00h47m55s">[00:47:55]</a></div>
 
-**Tara:** submit and obey. hummina hummina. And dear johnny dot org. So yeah there's a whole bunch.
+**Tara:** submit and obey. [hummina hummina](http://web.archive.org/web/20020602202720/http://humminahummina.com:80/). And dear johnny dot org. So yeah there's a whole bunch.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h48m03s" href="#t00h48m03s">[00:48:03]</a></div>
 
@@ -701,7 +701,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h48m06s" href="#t00h48m06s">[00:48:06]</a></div>
 
-**Tara:** well I'm sure you've heard of the singer Poe she had a song about Johnny dear Johnny and I was going through a man-hating phase so I said "I think I'm going to do Dear Johnny" and it actually turned into a comedy site which is what all of my sites kind of turned into a sort of comedy site.
+**Tara:** well I'm sure you've heard of the singer Poe she had [a song](https://open.spotify.com/track/07uIJvncK53p5XjQersG1C) about Johnny, dear Johnny, and I was going through a man-hating phase so I said "I think I'm going to do Dear Johnny" and it actually turned into a comedy site which is what all of my sites kind of turned into a sort of comedy site.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h48m23s" href="#t00h48m23s">[00:48:23]</a></div>
 
@@ -789,7 +789,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h51m58s" href="#t00h51m58s">[00:51:58]</a></div>
 
-**Dirk Sutro:** Mitch Lester Joe are three bloggers you can visit their blogs at drive thru dot org. That's DRIVE-THRU.ORG. Art Lung dot com and YEAHTOTALLY.NET and send us some email it at LOUNGE @ KPBS.ORG.
+**Dirk Sutro:** Mitch Lester Joe are three bloggers you can visit their blogs at drive thru dot org. That's DRIVE-THRU.ORG. ARTLUNG.COM and YEAHTOTALLY.NET and send us some email it at LOUNGE @ KPBS.ORG.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h52m19s" href="#t00h52m19s">[00:52:19]</a></div>
 
