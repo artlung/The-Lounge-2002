@@ -7,7 +7,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h01m04s" href="#t00h01m04s">[00:01:04]</a></div>
 
-**Dirk Sutro:** We begin with Mitch Wagner a journalist specializing in technology whose own blog is drive-thru.org that's drive hyphen thru dot org. Mitch thank you for being here.
+**Dirk Sutro:** We begin with Mitch Wagner a journalist specializing in technology whose own blog is [drive-thru.org](http://web.archive.org/web/20020811111115/http://drive-thru.org:80/2002_07_01_archive.html#85257762) that's DRIVE-THRU.ORG. Mitch thank you for being here.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h01m17s" href="#t00h01m17s">[00:01:17]</a></div>
 
@@ -55,7 +55,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h04m59s" href="#t00h04m59s">[00:04:59]</a></div>
 
-**Dirk Sutro:** We're talking about blogging in the lounge tonight. We have three bloggers here it sounds like some kind of hybrid of of logging and ice blocking but it's not. It's web logging and it refers to some of these personal Web sites that that our bloggers have that that do everything from talk about their own individual trials and tribulations; to show photos of their families too to exhibit links to tens or sometimes hundreds of other Web sites that they personally have found and find interesting. Give us a call888-895-5727. Email us lounge at kpbs.org and through the course of the hour tonight one of our bloggers here is going to be updating his own blog. And if you visit "art lung dot com slash blog" during this hour you should be able to see some new material appearing on there and our other blogger Joe here may give you the real skinny on what's happening here. You might get a completely different version of our show on Joe's blog than what you're hearing on 89.5 KPBS.
+**Dirk Sutro:** We're talking about blogging in the lounge tonight. We have three bloggers here it sounds like some kind of hybrid of of logging and ice blocking but it's not. It's web logging and it refers to some of these personal Web sites that that our bloggers have that that do everything from talk about their own individual trials and tribulations; to show photos of their families too to exhibit links to tens or sometimes hundreds of other Web sites that they personally have found and find interesting. Give us a call888-895-5727. Email us lounge at kpbs.org and through the course of the hour tonight one of our bloggers here is going to be updating his own blog. And if you visit "ARTLUNG.COM slash blog" during this hour you should be able to see some new material appearing on there and our other blogger Joe here may give you the real skinny on what's happening here. You might get a completely different version of our show on Joe's blog than what you're hearing on 89.5 KPBS.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h06m06s" href="#t00h06m06s">[00:06:06]</a></div>
 
@@ -109,11 +109,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h09m44s" href="#t00h09m44s">[00:09:44]</a></div>
 
-**Mitch Wagner:** you can do it—if all goes well which it never does with computers—
-
-<div class="timestamp" style="text-align: right;"><a id="t00h09m48s" href="#t00h09m48s">[00:09:48]</a></div>
-
-**Mitch Wagner:** ...you could do it in a few minutes. I actually when I started on blogger.com I did it in a few minutes. I know people have never been able to do it. You get jammed up sometimes.
+**Mitch Wagner:** you can do it—if all goes well which it never does with computers—you could do it in a few minutes. I actually when I started on blogger.com I did it in a few minutes. I know people have never been able to do it. You get jammed up sometimes.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h09m48s" href="#t00h09m48s">[00:09:48]</a></div>
 
@@ -149,7 +145,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h11m21s" href="#t00h11m21s">[00:11:21]</a></div>
 
-**Dirk Sutro:** And we're talking to Lester here and your side is yeah totally.net. And how did you get into blogging?
+**Dirk Sutro:** And we're talking to Lester here and your site is [yeahtotally.net](http://web.archive.org/web/20021003204440/http://www.yeahtotally.net:80/2002_07_01_old.php#79008682). And how did you get into blogging?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h11m29s" href="#t00h11m29s">[00:11:29]</a></div>
 
@@ -157,7 +153,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h11m56s" href="#t00h11m56s">[00:11:56]</a></div>
 
-**Dirk Sutro:** Well we heard a little bit from Mitch about drive thru dot org and I wanted to hear a bit more from you Lester about yeah totally dot net. In terms of why you do it and how you decide what to put up there.
+**Dirk Sutro:** Well we heard a little bit from Mitch about drive thru dot org and I wanted to hear a bit more from you Lester about YEAHTOTALLY.NET. In terms of why you do it and how you decide what to put up there.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h12m09s" href="#t00h12m09s">[00:12:09]</a></div>
 
@@ -181,7 +177,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h12m48s" href="#t00h12m48s">[00:12:48]</a></div>
 
-**Lester:** Not quite. When I had started yeah totally dot net which was about a year ago I had started anonymously. And it was initially a space for me to sort of explore these, my, experiences in the gay community in San Diego. Being a 27 year old Asian male basically giving it its own vantage point which you aren't going to find, I don't think, in mainstream media
+**Lester:** Not quite. When I had started YEAHTOTALLY.NET which was about a year ago I had started anonymously. And it was initially a space for me to sort of explore these, my, experiences in the gay community in San Diego. Being a 27 year old Asian male basically giving it its own vantage point which you aren't going to find, I don't think, in mainstream media
 
 <div class="timestamp" style="text-align: right;"><a id="t00h13m14s" href="#t00h13m14s">[00:13:14]</a></div>
 
@@ -209,7 +205,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h14m41s" href="#t00h14m41s">[00:14:41]</a></div>
 
-**Dirk Sutro:** Well after the break I want to talk a lot more about the implications of having a social existence in a cyber realm and how often or whether that spills over into the traditional real physical realm that we're more familiar with. We're talking about blogging for more information on blogging you can go to blogger dot com and one of the blogs that we are talking about tonight will be evolving during the course of this show we have a Macintosh iBook sitting here and Joe is working away as we speak on art lung dot com slash blog. So if you log on there, you know, like I said before you might find out what's really going on on the show tonight you might get a whole different version of the show than what you're getting at 89.5 FM. I'm Dirk Sutro will be back in the lounge with blogging after this short break.
+**Dirk Sutro:** Well after the break I want to talk a lot more about the implications of having a social existence in a cyber realm and how often or whether that spills over into the traditional real physical realm that we're more familiar with. We're talking about blogging for more information on blogging you can go to blogger dot com and one of the blogs that we are talking about tonight will be evolving during the course of this show we have a Macintosh iBook sitting here and Joe is working away as we speak on ARTLUNG.COM slash blog. So if you log on there, you know, like I said before you might find out what's really going on on the show tonight you might get a whole different version of the show than what you're getting at 89.5 FM. I'm Dirk Sutro will be back in the lounge with blogging after this short break.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h15m37s" href="#t00h15m37s">[00:15:37]</a></div>
 
@@ -217,7 +213,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h17m14s" href="#t00h17m14s">[00:17:14]</a></div>
 
-**Dirk Sutro:** Well we're checking out blogging in The Lounge tonight that's the phenomenon of "web logging" we have three bonafide bloggers here and we're talking about all three of their blogs and what goes on there what you can find there why they do it and what it's like to live in a cyber realm. A large part of your day. Mitch is here; Lester is here; Joe is here. You can join us at 888-895-5727 or email us lounge at kpbs.org we'll pick up your e-mails during the show and if you want to check out Joe's blog it's changing as we speak as he types while I'm talking. Who knows what he's really saying about me on there but you can check it out at art lung dot com slash blog. And Joe I was looking over your shoulder during the break there. And one of the things that you put on your on your blog was that you were you were somewhat blown away at how frank Lester is on his Web site.
+**Dirk Sutro:** Well we're checking out blogging in The Lounge tonight that's the phenomenon of "web logging" we have three bonafide bloggers here and we're talking about all three of their blogs and what goes on there what you can find there why they do it and what it's like to live in a cyber realm. A large part of your day. Mitch is here; Lester is here; Joe is here. You can join us at 888-895-5727 or email us lounge at kpbs.org we'll pick up your e-mails during the show and if you want to check out Joe's blog it's changing as we speak as he types while I'm talking. Who knows what he's really saying about me on there but you can check it out at ARTLUNG.COM slash blog. And Joe I was looking over your shoulder during the break there. And one of the things that you put on your on your blog was that you were you were somewhat blown away at how frank Lester is on his Web site.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h18m09s" href="#t00h18m09s">[00:18:09]</a></div>
 
@@ -345,7 +341,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h26m43s" href="#t00h26m43s">[00:26:43]</a></div>
 
-**Lester:** Kaycee Nicole was an online personality who portrayed herself as a collegiate student who had come down with leukemia and a lot of people gravitated toward the story. One person in particular I think was Paul or Peter Van der Woning had contacted her set up her blog for her and he and John Halcyon had contacted a lot of people and generate a lot of support and a lot of sympathy for this one person and eventually set up a blog for her mother who also chronicled her experiences with raising a child that she knew it was going to die and eventually it was posted that case Nicole had passed away and there was a huge outpouring of emotion from an online community of people who had been very touched by this story. But as soon as that post had happened a lot of people started speculating about well how do we know that she's real. No one's actually met her. Some people have had phone conversations with her. No one's actually come physical contact with her. And through another online community called [Metafilter] (http://www.metafilter.com/) which is basically just this massive discussion group _ (**Mitch:** it's a community weblog)_ ...yeah I guess the best term for it... Metafilter had basically pulled their resources and tracked down all the information they could about this person and found that she wasn't real that she was a creation of mother and daughter out somewhere in the Midwest and they had faked the whole thing.
+**Lester:** Kaycee Nicole was an online personality who portrayed herself as a collegiate student who had come down with leukemia and a lot of people gravitated toward the story. One person in particular I think was Paul or Peter Van der Woning had contacted her set up her blog for her and he and John Halcyon had contacted a lot of people and generate a lot of support and a lot of sympathy for this one person and eventually set up a blog for her mother who also chronicled her experiences with raising a child that she knew it was going to die and eventually it was posted that case Nicole had passed away and there was a huge outpouring of emotion from an online community of people who had been very touched by this story. But as soon as that post had happened a lot of people started speculating about well how do we know that she's real. No one's actually met her. Some people have had phone conversations with her. No one's actually come physical contact with her. And through another online community called [Metafilter] (http://www.metafilter.com/) which is basically just this massive discussion group _(**Mitch:** it's a community weblog)_ ...yeah I guess the best term for it... Metafilter had basically pulled their resources and tracked down all the information they could about this person and found that she wasn't real that she was a creation of mother and daughter out somewhere in the Midwest and they had faked the whole thing.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h28m11s" href="#t00h28m11s">[00:28:11]</a></div>
 
@@ -401,7 +397,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h30m37s" href="#t00h30m37s">[00:30:37]</a></div>
 
-**Dirk Sutro:** Well and some of them are aren't covert at all about what they're doing they're making a lot of money. _ (** Joe:** Sure)_
+**Dirk Sutro:** Well and some of them are aren't covert at all about what they're doing they're making a lot of money. _(** Joe:** Sure)_
 
 <div class="timestamp" style="text-align: right;"><a id="t00h30m42s" href="#t00h30m42s">[00:30:42]</a></div>
 
@@ -409,15 +405,15 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h30m45s" href="#t00h30m45s">[00:30:45]</a></div>
 
-**Dirk Sutro:** We're talking about blogging or web logging it's a new term for a somewhat familiar use of the Internet. We have three bloggers here. They each have Web sites or blogs. Mitch's is drive thru.org It's drive hyphen thru dot org. Lester's is Yeah Totally dot net and Joe over here is artlung dot com and Joe is updating his site as we speak.
+**Dirk Sutro:** We're talking about blogging or web logging it's a new term for a somewhat familiar use of the Internet. We have three bloggers here. They each have Web sites or blogs. Mitch's is drive thru.org It's DRIVE-THRU.ORG. Lester's is YEAHTOTALLY.NET and Joe over here is artlung.com and [Joe is updating his site as we speak](http://artlung.com/blog/2002/07/16/79043592/).
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m11s" href="#t00h31m11s">[00:31:11]</a></div>
 
-**Dirk Sutro:** He's got his computer right here so if you want to see some some real time blogging go to artlung dot com and well where do we go from here. How much time do you guys spend blogging a day?
+**Dirk Sutro:** He's got his computer right here so if you want to see some some real time blogging go to ARTLUNG.COM and well where do we go from here. How much time do you guys spend blogging a day?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m26s" href="#t00h31m26s">[00:31:26]</a></div>
 
-**Lester:** Oh my gosh you know I was originally freelancing I would spend probably half my day on there... _ (**Joe:** Oh wow!)_
+**Lester:** Oh my gosh you know I was originally freelancing I would spend probably half my day on there... _(**Joe:** Oh wow!)_
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m33s" href="#t00h31m33s">[00:31:33]</a></div>
 
@@ -445,7 +441,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h32m40s" href="#t00h32m40s">[00:32:40]</a></div>
 
-**Dirk Sutro:** So less than an hour on your blog? _ (**Lester:** I'd say)_ And how much time do you spend online in a day?
+**Dirk Sutro:** So less than an hour on your blog? _(**Lester:** I'd say)_ And how much time do you spend online in a day?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h32m46s" href="#t00h32m46s">[00:32:46]</a></div>
 
@@ -507,21 +503,21 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h35m24s" href="#t00h35m24s">[00:35:24]</a></div>
 
-**Lester:** And that's the benefit of finding links through other blogs is that not only do you get information you get the information contextualized _ (**Joe:** Right.)_ So you get to know the person who linked to that site and maybe why they link to that site and then you can sort of make up your own mind. Do I you know trust this person's opinion or do I fly in the face of it?
+**Lester:** And that's the benefit of finding links through other blogs is that not only do you get information you get the information contextualized _(**Joe:** Right.)_ So you get to know the person who linked to that site and maybe why they link to that site and then you can sort of make up your own mind. Do I you know trust this person's opinion or do I fly in the face of it?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h35m43s" href="#t00h35m43s">[00:35:43]</a></div>
 
-**Dirk Sutro:** Well we're blogging in The Lounge tonight with three bonafide bloggers if you want to see some blogging going on as we speak. Don't don't worry it's OK your kids can look at this blogging too it's it artlung dot com and we want to know if you blog or you'd like to blog or you haven't the foggiest notion what blogging is. Give us a call. 888-895-5727. Send us an email lounge at KPBS.org. I'm Dirk Sutro, we'll be back. More blogging after this short break.
+**Dirk Sutro:** Well we're blogging in The Lounge tonight with three bonafide bloggers if you want to see some blogging going on as we speak. Don't don't worry it's OK your kids can look at this blogging too it's it ARTLUNG.COM and we want to know if you blog or you'd like to blog or you haven't the foggiest notion what blogging is. Give us a call. 888-895-5727. Send us an email lounge at KPBS.org. I'm Dirk Sutro, we'll be back. More blogging after this short break.
 
 [Musical break]
 
 <div class="timestamp" style="text-align: right;"><a id="t00h38m05s" href="#t00h38m05s">[00:38:05]</a></div>
 
-**Dirk Sutro:** Well we're kind of we're kind of giving you a blogging 101 in the lounge tonight. Maybe you don't have a clue what blogging is or you didn't at least until you tuned in tonight or maybe you're a seasoned blogger with your own blog. Give us a call. 888-895-5727. Three bloggers are here with us. Mitch, Lester, Joe and their Web sites Mitch's is Drive hyphen thru dot org and that's "T H R U." Lester's is yeah totally dot net and Joe's, which Joe is updating during the show tonight on his laptop, is artlung dot com. And I wonder would each of you read us a paragraph or two from from your blogs. Just so we get some idea of the stories that you're telling on there. Does anybody want to volunteer?
+**Dirk Sutro:** Well we're kind of we're kind of giving you a blogging 101 in the lounge tonight. Maybe you don't have a clue what blogging is or you didn't at least until you tuned in tonight or maybe you're a seasoned blogger with your own blog. Give us a call. 888-895-5727. Three bloggers are here with us. Mitch, Lester, Joe and their Web sites Mitch's is DRIVE-THRU.ORG and that's "T H R U." Lester's is YEAHTOTALLY.NET and Joe's, which Joe is updating during the show tonight on his laptop, is ARTLUNG.COM. And I wonder would each of you read us a paragraph or two from from your blogs. Just so we get some idea of the stories that you're telling on there. Does anybody want to volunteer?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h38m56s" href="#t00h38m56s">[00:38:56]</a></div>
 
-**Lester:** I've got one ready I guess. _ (**Dirk:** OK. Lester)_ This was an entry entitled "random access memory: all about my mother." I remember visiting the Philippines when I was 13 or so. We were driving around the province where my mother grew up visiting my grandfather's farm and they kept seeing these large white signs with bold black sans-serif type. I read them to myself whenever we drove by when there was a coupon over and over again there was a coupon there is a coupon there is a coupon. Finally I spoke up. Mom "what's this coupon they keep posting signs about. And what's with all these tanks." "Coup, coup, there's a military coup on" — "keep your voice down or some bad men might hear your accent and kidnap you for ransom. And I told you not to stick your hand outside the window. They'll cut it off. They'll cut it off just a steal your watch." "When are we going home?" This was the same trip that I watched her kill a chicken for dinner.
+**Lester:** I've got one ready I guess. _(**Dirk:** OK. Lester)_ This was an entry entitled "random access memory: all about my mother." I remember visiting the Philippines when I was 13 or so. We were driving around the province where my mother grew up visiting my grandfather's farm and they kept seeing these large white signs with bold black sans-serif type. I read them to myself whenever we drove by when there was a coupon over and over again there was a coupon there is a coupon there is a coupon. Finally I spoke up. Mom "what's this coupon they keep posting signs about. And what's with all these tanks." "Coup, coup, there's a military coup on" — "keep your voice down or some bad men might hear your accent and kidnap you for ransom. And I told you not to stick your hand outside the window. They'll cut it off. They'll cut it off just a steal your watch." "When are we going home?" This was the same trip that I watched her kill a chicken for dinner.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h39m46s" href="#t00h39m46s">[00:39:46]</a></div>
 
@@ -793,7 +789,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h51m58s" href="#t00h51m58s">[00:51:58]</a></div>
 
-**Dirk Sutro:** Mitch Lester Joe are three bloggers you can visit their blogs at drive thru dot org. That's drive hyphen thru dot org. Art Lung dot com and yeah totally dot net and send us some email it at lounge at KPBS.org.
+**Dirk Sutro:** Mitch Lester Joe are three bloggers you can visit their blogs at drive thru dot org. That's DRIVE-THRU.ORG. Art Lung dot com and YEAHTOTALLY.NET and send us some email it at lounge at KPBS.org.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h52m19s" href="#t00h52m19s">[00:52:19]</a></div>
 
