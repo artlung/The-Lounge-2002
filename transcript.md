@@ -39,7 +39,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h03m35s" href="#t00h03m35s">[00:03:35]</a></div>
 
-(Laughter in the studio)
+ (Laughter in the studio)
 
 <div class="timestamp" style="text-align: right;"><a id="t00h03m36s" href="#t00h03m36s">[00:03:36]</a></div>
 
@@ -213,7 +213,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h15m37s" href="#t00h15m37s">[00:15:37]</a></div>
 
-[Musical break] [**TODO:** Identify music] 
+[Musical break]
 
 <div class="timestamp" style="text-align: right;"><a id="t00h17m14s" href="#t00h17m14s">[00:17:14]</a></div>
 
@@ -265,7 +265,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h21m07s" href="#t00h21m07s">[00:21:07]</a></div>
 
-**Dirk Sutro:** I mean it's interesting because there's levels then(Joe: Absolutely.) there's levels to which you're willing to go and your blog is one level and your personal diary is a completely different level. 
+**Dirk Sutro:** I mean it's interesting because there's levels then (**Joe:**  Absolutely.) there's levels to which you're willing to go and your blog is one level and your personal diary is a completely different level. 
 
 <div class="timestamp" style="text-align: right;"><a id="t00h21m17s" href="#t00h21m17s">[00:21:17]</a></div>
 
@@ -289,7 +289,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h22m47s" href="#t00h22m47s">[00:22:47]</a></div>
 
-**Dirk Sutro:** Well we want to hear about your experience with blogging or how you think you'd do blogging how much of your own personal life would you be willing to put on your own blog if and when you start one or what has your experience of communicating on the Internet been to date. If not blogging then in some of the chat rooms say or or even on a Web site like matchmaker dot com where I actually met my wife.(Hi honey if you're out there) give us a call. 888-895-5727. And you know there are a lot of people that have philosophized about this whole information age / Internet cyber era that we're in and wondered what would or could happen if communicating in cyberspace becomes the primary mode of human interaction. Now do you guys feel that spending a lot of time blogging takes you away from other types of human interaction?
+**Dirk Sutro:** Well we want to hear about your experience with blogging or how you think you'd do blogging how much of your own personal life would you be willing to put on your own blog if and when you start one or what has your experience of communicating on the Internet been to date. If not blogging then in some of the chat rooms say or or even on a Web site like matchmaker dot com where I actually met my wife.  (Hi honey if you're out there) give us a call. 888-895-5727. And you know there are a lot of people that have philosophized about this whole information age / Internet cyber era that we're in and wondered what would or could happen if communicating in cyberspace becomes the primary mode of human interaction. Now do you guys feel that spending a lot of time blogging takes you away from other types of human interaction?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h23m45s" href="#t00h23m45s">[00:23:45]</a></div>
 
@@ -345,7 +345,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h26m43s" href="#t00h26m43s">[00:26:43]</a></div>
 
-**Lester:** Kaycee Nicole was an online personality who portrayed herself as a collegiate student who had come down with leukemia and a lot of people gravitated toward the story. One person in particular I think was Paul or Peter Van der Woning had contacted her set up her blog for her and he and John Halcyon had contacted a lot of people and generate a lot of support and a lot of sympathy for this one person and eventually set up a blog for her mother who also chronicled her experiences with raising a child that she knew it was going to die and eventually it was posted that case Nicole had passed away and there was a huge outpouring of emotion from an online community of people who had been very touched by this story. But as soon as that post had happened a lot of people started speculating about well how do we know that she's real. No one's actually met her. Some people have had phone conversations with her. No one's actually come physical contact with her. And through another online community called [Metafilter](http://www.metafilter.com/) which is basically just this massive discussion group _(**Mitch:** it's a community weblog)_ ...yeah I guess the best term for it... Metafilter had basically pulled their resources and tracked down all the information they could about this person and found that she wasn't real that she was a creation of mother and daughter out somewhere in the Midwest and they had faked the whole thing.
+**Lester:** Kaycee Nicole was an online personality who portrayed herself as a collegiate student who had come down with leukemia and a lot of people gravitated toward the story. One person in particular I think was Paul or Peter Van der Woning had contacted her set up her blog for her and he and John Halcyon had contacted a lot of people and generate a lot of support and a lot of sympathy for this one person and eventually set up a blog for her mother who also chronicled her experiences with raising a child that she knew it was going to die and eventually it was posted that case Nicole had passed away and there was a huge outpouring of emotion from an online community of people who had been very touched by this story. But as soon as that post had happened a lot of people started speculating about well how do we know that she's real. No one's actually met her. Some people have had phone conversations with her. No one's actually come physical contact with her. And through another online community called [Metafilter] (http://www.metafilter.com/) which is basically just this massive discussion group _ (**Mitch:** it's a community weblog)_ ...yeah I guess the best term for it... Metafilter had basically pulled their resources and tracked down all the information they could about this person and found that she wasn't real that she was a creation of mother and daughter out somewhere in the Midwest and they had faked the whole thing.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h28m11s" href="#t00h28m11s">[00:28:11]</a></div>
 
@@ -401,7 +401,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h30m37s" href="#t00h30m37s">[00:30:37]</a></div>
 
-**Dirk Sutro:** Well and some of them are aren't covert at all about what they're doing they're making a lot of money. (** Joe:** Sure)
+**Dirk Sutro:** Well and some of them are aren't covert at all about what they're doing they're making a lot of money. _ (** Joe:** Sure)_
 
 <div class="timestamp" style="text-align: right;"><a id="t00h30m42s" href="#t00h30m42s">[00:30:42]</a></div>
 
@@ -417,7 +417,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m26s" href="#t00h31m26s">[00:31:26]</a></div>
 
-**Lester:** Oh my gosh you know I was originally freelancing I would spend probably half my day on there... _(**Joe:** Oh wow!)_
+**Lester:** Oh my gosh you know I was originally freelancing I would spend probably half my day on there... _ (**Joe:** Oh wow!)_
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m33s" href="#t00h31m33s">[00:31:33]</a></div>
 
@@ -429,7 +429,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h31m36s" href="#t00h31m36s">[00:31:36]</a></div>
 
-**Dirk Sutro:** It did get at least one of you in trouble because you were I think I heard that one of you was blogging at work and the employer didn't take kindly to it. (Joe: No I don't think so.) It wasn't Lester?
+**Dirk Sutro:** It did get at least one of you in trouble because you were I think I heard that one of you was blogging at work and the employer didn't take kindly to it.  (**Joe:**  No I don't think so.) It wasn't Lester?
 
 **Lester:** There are covert ways to blog at work). Not that I do that anymore by the way.
 
@@ -445,7 +445,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h32m40s" href="#t00h32m40s">[00:32:40]</a></div>
 
-**Dirk Sutro:** So less than an hour on your blog?(Lester: I'd say) And how much time do you spend online in a day?
+**Dirk Sutro:** So less than an hour on your blog? _ (**Lester:** I'd say)_ And how much time do you spend online in a day?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h32m46s" href="#t00h32m46s">[00:32:46]</a></div>
 
@@ -507,7 +507,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h35m24s" href="#t00h35m24s">[00:35:24]</a></div>
 
-**Lester:** And that's the benefit of finding links through other blogs is that not only do you get information you get the information contextualized(Joe: Right.) So you get to know the person who linked to that site and maybe why they link to that site and then you can sort of make up your own mind. Do I you know trust this person's opinion or do I fly in the face of it?
+**Lester:** And that's the benefit of finding links through other blogs is that not only do you get information you get the information contextualized _ (**Joe:** Right.)_ So you get to know the person who linked to that site and maybe why they link to that site and then you can sort of make up your own mind. Do I you know trust this person's opinion or do I fly in the face of it?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h35m43s" href="#t00h35m43s">[00:35:43]</a></div>
 
@@ -521,7 +521,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h38m56s" href="#t00h38m56s">[00:38:56]</a></div>
 
-**Lester:** I've got one ready I guess. _(**Dirk:** OK. Lester)_ This was an entry entitled "random access memory: all about my mother." I remember visiting the Philippines when I was 13 or so. We were driving around the province where my mother grew up visiting my grandfather's farm and they kept seeing these large white signs with bold black sans-serif type. I read them to myself whenever we drove by when there was a coupon over and over again there was a coupon there is a coupon there is a coupon. Finally I spoke up. Mom "what's this coupon they keep posting signs about. And what's with all these tanks." "Coup, coup, there's a military coup on" — "keep your voice down or some bad men might hear your accent and kidnap you for ransom. And I told you not to stick your hand outside the window. They'll cut it off. They'll cut it off just a steal your watch." "When are we going home?" This was the same trip that I watched her kill a chicken for dinner.
+**Lester:** I've got one ready I guess. _ (**Dirk:** OK. Lester)_ This was an entry entitled "random access memory: all about my mother." I remember visiting the Philippines when I was 13 or so. We were driving around the province where my mother grew up visiting my grandfather's farm and they kept seeing these large white signs with bold black sans-serif type. I read them to myself whenever we drove by when there was a coupon over and over again there was a coupon there is a coupon there is a coupon. Finally I spoke up. Mom "what's this coupon they keep posting signs about. And what's with all these tanks." "Coup, coup, there's a military coup on" — "keep your voice down or some bad men might hear your accent and kidnap you for ransom. And I told you not to stick your hand outside the window. They'll cut it off. They'll cut it off just a steal your watch." "When are we going home?" This was the same trip that I watched her kill a chicken for dinner.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h39m46s" href="#t00h39m46s">[00:39:46]</a></div>
 
@@ -537,7 +537,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h40m40s" href="#t00h40m40s">[00:40:40]</a></div>
 
-**Lester:**  The last really good book I read was what was it called "above all things the heart is deceitful"(sic) by JT Leroy. And I think just the imagery and the lyrical nature of that writing about some really dark dark subjects I think probably serves as an inspiration I guess.
+**Lester:**  The last really good book I read was what was it called [The Heart Is Deceitful Above All Things] (https://www.amazon.com/Heart-Deceitful-Above-All-Things/dp/0062641271) by JT Leroy. And I think just the imagery and the lyrical nature of that writing about some really dark dark subjects I think probably serves as an inspiration I guess.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h41m03s" href="#t00h41m03s">[00:41:03]</a></div>
 
@@ -657,7 +657,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h46m56s" href="#t00h46m56s">[00:46:56]</a></div>
 
-**Dirk Sutro:** Does Joe know you from from blogging or does he has he actually met in person (Joe: met in person) Yeah. Did you meet in person first or did you meet blogging first.
+**Dirk Sutro:** Does Joe know you from from blogging or does he has he actually met in person  (**Joe:** met in person) Yeah. Did you meet in person first or did you meet blogging first.
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m04s" href="#t00h47m04s">[00:47:04]</a></div>
 
@@ -669,7 +669,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m11s" href="#t00h47m11s">[00:47:11]</a></div>
 
-**Tara:** Well I guess you could some people would consider me a flaky blogger. Some people would consider me serious. I would rather say I'm a serial blogger. (Dirk: a serial blogger?!)
+**Tara:** Well I guess you could some people would consider me a flaky blogger. Some people would consider me serious. I would rather say I'm a serial blogger.  (**Dirk:** a serial blogger?!)
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m21s" href="#t00h47m21s">[00:47:21]</a></div>
 
@@ -681,7 +681,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m30s" href="#t00h47m30s">[00:47:30]</a></div>
 
-**Dirk Sutro:**  You mean you start a site. You drop it. And then you create a new site with a different name.(Tara: Yes) Well you know you raise a really interesting question and that is what happens to abandoned sites a lot of them sit there for months or years and are still accessible aren't they?
+**Dirk Sutro:**  You mean you start a site. You drop it. And then you create a new site with a different name. (Tara: Yes) Well you know you raise a really interesting question and that is what happens to abandoned sites a lot of them sit there for months or years and are still accessible aren't they?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h47m45s" href="#t00h47m45s">[00:47:45]</a></div>
 
@@ -761,7 +761,7 @@
 
 <div class="timestamp" style="text-align: right;"><a id="t00h51m29s" href="#t00h51m29s">[00:51:29]</a></div>
 
-**Dirk Sutro:** OK, hey Tara thanks again for the call and happy blogging(Tara: thank you) and thanks thanks to all of our bloggers. Are any of you going to go home and post something juicy tonight?
+**Dirk Sutro:** OK, hey Tara thanks again for the call and happy blogging (Tara: thank you) and thanks thanks to all of our bloggers. Are any of you going to go home and post something juicy tonight?
 
 <div class="timestamp" style="text-align: right;"><a id="t00h51m40s" href="#t00h51m40s">[00:51:40]</a></div>
 
